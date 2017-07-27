@@ -66,7 +66,7 @@
             "Key": "4ecab93a-4342-441b-b53e-182b88c41f30",
             "Value": {
                 "id": "f5088617-c500-47ef-93f7-c59cc852f37e",
-                "resourcePath": "sprites\\spr0\\spr0.yy",
+                "resourcePath": "sprites\\spr_SadClownFace\\spr_SadClownFace.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -188,6 +188,14 @@
                 "id": "7231e7a4-62da-4449-a715-b7050da6349c",
                 "resourcePath": "views\\efd03ae4-6de4-4390-98e2-aa4bdf765ad3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f2d0e1f9-2f1c-4f8d-9724-6c9ee07c3114",
+            "Value": {
+                "id": "212ca98f-2253-4419-bef2-9562c89c21b4",
+                "resourcePath": "sprites\\spr_BlueFlower\\spr_BlueFlower.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

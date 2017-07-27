@@ -2,7 +2,7 @@
     "id": "4ecab93a-4342-441b-b53e-182b88c41f30",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr0",
+    "name": "spr_SadClownFace",
     "For3D": false,
     "HTile": false,
     "VTile": false,
