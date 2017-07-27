@@ -127,6 +127,14 @@
             }
         },
         {
+            "Key": "99a82ad4-3c0e-4508-8560-cd194d4137d0",
+            "Value": {
+                "id": "f05dd5d6-f474-4cec-8486-f2716c6cbd17",
+                "resourcePath": "objects\\obj_BlueFlower\\obj_BlueFlower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9b48b7c6-2d36-4e54-a70d-d12a48ecb34b",
             "Value": {
                 "id": "20929b9c-f81f-4ec1-8a76-db2bbf786603",
